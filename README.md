@@ -1,6 +1,7 @@
-# learndemo
+# Vue-Green-TakeOut
 
-> A Vue.js project
+> vue + vuex + vue-router + axios 项目 
+> 学习vue前后台分离的模式去弄的一个demo
 
 ## Build Setup
 
