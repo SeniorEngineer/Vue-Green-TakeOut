@@ -4,7 +4,13 @@
 > 使用Vue全家桶 + ES6 + Webpack
 > 学习vue前后台分离的模式去弄的一个demo
 ## 技术选型
->
+1、前端数据处理/交互/组件化：vue/vue-router/vuex/mint-ui/swiper
+2、前后台交互：axios/postman/mockJs
+3、模块化：es6/babel
+4、项目构建/工程化：webpack/vue-cli脚手架/eslint
+5、css预编译器：stylus
+## 接口管理
+
 ## Build Setup
 
 ``` bash
