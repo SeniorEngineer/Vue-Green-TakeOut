@@ -12,7 +12,7 @@
   5、css预编译器：stylus
   ```
 ## 接口管理
-  ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+  ![](https://github.com/SeniorEngineer/Vue-Green-TakeOut/blob/master/DesignSketch/API.jpg)
 
 ## Build Setup
 
