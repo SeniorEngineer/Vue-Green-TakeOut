@@ -1,8 +1,10 @@
 # Vue-Green-TakeOut
-
-> vue + vuex + vue-router + axios 项目 
+## 项目描述
+> 此项目为外卖Web App（SPA）包括商家，商品列表，购物车，用户等多个子模块
+> 使用Vue全家桶 + ES6 + Webpack
 > 学习vue前后台分离的模式去弄的一个demo
-
+## 技术选型
+>
 ## Build Setup
 
 ``` bash
