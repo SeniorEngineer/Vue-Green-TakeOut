@@ -3,11 +3,17 @@
     <router-view/>
   </div>
 </template>
-
 <script>
-
+import {mapActions} from 'vuex'
 export default {
-  name: 'App'
+  name: 'App',
+  methods: {
+    ...mapActions(['userInfoSession'])
+  },
+  mounted () {
+    // this.$store.dispatch('userInfoSession')
+    this.userInfoSession()
+  }
 }
 </script>
 
